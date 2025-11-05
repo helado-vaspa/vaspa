@@ -1352,12 +1352,6 @@
                     "isBlocking": false
                 },
                 {
-                    "id": "3",
-                    "idService": "3",
-                    "isEnabled": true,
-                    "isBlocking": false
-                },
-                {
                     "id": "4",
                     "idService": "6",
                     "isEnabled": true,

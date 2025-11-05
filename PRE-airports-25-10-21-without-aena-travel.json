@@ -49,23 +49,6 @@
             "priorityMisViajes": 1
         },
         {
-            "id": "3",
-            "serviceType": "TRAVEL",
-            "serviceName": {
-                "es_ES": "aena Travel",
-                "en_GB": "aena Travel",
-                "ca_ES": "aena Travel",
-                "eu_ES": "aena Travel",
-                "gl_ES": "aena Travel"
-            },
-            "iconoName": "ic_servicios_travel",
-            "iconoName90degree": "ic_servicios_travel_90_degree",
-            "iconoNameCircle": "ic_servicios_travel_circle",
-            "isAenaMarket": true,
-            "isVipService": false,
-            "priorityMisViajes": 4
-        },
-        {
             "id": "4",
             "serviceType": "FOOD2FLY",
             "serviceName": {

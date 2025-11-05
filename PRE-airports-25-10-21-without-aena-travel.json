@@ -2178,7 +2178,7 @@
             ],
             "misViajesServicesConfig": {
                 "groupByVipServices": false,
-                "groupByAenaMarket": false
+                "groupByAenaMarket": true
             },
             "homeServicesConfig": {
                 "groupByVipServices": false,
